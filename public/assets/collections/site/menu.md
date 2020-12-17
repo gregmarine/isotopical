@@ -1,4 +1,5 @@
 [Home](/)
+[Portfolio](/portfolio)
 [Podcast](/talkingtech)
 [Posts](/posts)
 [Recipes](/recipes)
