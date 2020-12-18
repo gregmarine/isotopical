@@ -29,6 +29,36 @@ As a Tech Mercenary, I am not the hero my clients need or even want. In fact, th
 
 So, what role does the Tech Mercenary play in the hero's story? My role is to create the tools the hero will use to meet the ever changing needs of their own customers. You can think of me as the Alfred of the Batman or the Q of the 00s in the James Bond films. Whether it be a customer facing website or app, an internal tool to help employees serve the customer, or a business to business integration between systems, I do the work that allows my clients to focus on being the hero.
 
-
+The need to be a hero comes when there is a villain. So, who, or what, is the villain in my clients' stories. Typically it will be challenging software needs and projects. And every company knows what need to succeed. The problem comes in how to solve those needs and in a way that isn't too costly in both time and money. This is where a Tech Mercenary comes in. Those villains do not stand a chance against the hero and their secret weapons built by the Tech Mercenary.
 
 # The 4 Keys of Software Development
+
+As part of my lifestyle, the Walt Disney World Resort and all things Disney plays an important role in the life of my family. In particular, Walt Disney himself is an inspiration both as a man and as a business person. That is the main source for the above "Heros and Villains" concept. However, there is also another a key concept that I have adopted by Walt Disney. And that is his 4 Keys: Safety, Courtesy, Show, and Efficiency.
+
+My good friend, [Mike Callaghan](https://twitter.com/walkingriver), wrote an [excellent article](https://walkingriver.com/four-keys/) on these keys and how they can bee applied to software development. Here are the 4 keys as defined by Walt Disney:
+
+1. **Safety** - *I practice safe behaviors in everything I do.*
+
+2. **Courtesy** - *I go above and beyond to exceed Guest expectations.*
+
+3. **Show** - *I ensure my area is show-ready at all times.*
+
+4. **Efficiency** - *I perform my role efficiently so Guests get the most out of their visit.*
+
+As part of his article, Mike (who works in software at the Walt Disney World Resort), translates this into how they can applied to software development as follows:
+
+1. **Safety** - *I keep on top of and implement current secure coding, source code control, and data security practices.*
+
+2. **Courtesy** - *I treat my users with respect, and consider their needs with every coding decision I make.*
+
+3. **Show** - *I keep the user experience at the forefront of my application design.*
+
+4. **Efficiency** - *I use my time, my team’s time, and the company’s resources wisely.*
+
+I have adopted these keys and their software development definitions into my Tech Mercenary work. And in doing so, I help write the story my clients are a part of that defines their success. My clients need the safety of secure coding and data security, the consideration and respect their users deserve, the user experience their customers come to expect, and the best use of everyone's time and resources.
+
+# Conclusion
+
+This is being established as a living document here on my website as part of my portfolio. It will evolve over time and will always define how I approach software development for my clients. I also approach my own projects in this manor. I'm quite fond of stories and how they formulate over time. In fact, my own story has evolved over the course of more than 4 decades.
+
+Be sure to check back here from time to time in order to stay on top of the latest.
