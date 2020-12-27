@@ -50,11 +50,11 @@ As I went through counseling to heal from the above mentioned divorce, I was enc
 
 It did not take long for me to find "love" again. I looked to online matching services this time around. And, based on some sort of algorithm, I felt confident I had found true love. At first, it seemed just like a match made in Heaven, again. However, it did not take eight years for me to conclude it was all a mismatch. In fact, it was just after two years I decided it was not working out and I called for a separation. And shortly after that, I filed for a divorce.
 
-Today, I am in now in my third marriage. I have now made it past the threshold of my second marriage, but not quite as far as my first. And it will most certainly be my last. However, one thing I can take to heart is that this one is a marriage to make count. I did not enter into it lightly. She did not either with it being her second. So, this time, I feel confident we will not give up on each other.
+Today, I am now in my third marriage. It is my sincerest hope that neither of us give up on each other.
 
 # When to Give Up
 
-Now that I have given three examples of when I had either given up on my own or was somehow forced to give up, what sort of conclusion should I draw from my life's experiences? Simply put, I have not clue as to when I should or should not give up. I think, more than anything, the point of learning from life's experiences is to know how to feel about what happens when I have to give up or am forced to let things go.
+Now that I have given three examples of when I had either given up on my own or was somehow forced to give up, what sort of conclusion should I draw from my life's experiences? Simply put, I have no real clue as to when I should or should not give up. I think, more than anything, the point of learning from life's experiences is to know how to feel about what happens when I have to give up or am forced to let things go.
 
 I have absolutely no control over anything, or anyone else, in my life. In fact, the only thing I do have control over is how I handle what life throws at me. One of my life's mottos is, "It isn't what happens to me that is important. But rather how I handle what happens that is important." I believe this so strongly that you will rarely find me blaming circumstance for my woes. Like most humans, I do look for something or someone else to blame for my problems. However, at the end of the day, it is really up to me to decide how it all effects me.
 
