@@ -28,7 +28,9 @@ And if that wasn't enough, the company also paid the full premium for our health
 
 # International Vending Management
 
-Start
+A few months after my time ended with TGFI, I was contacted directly over LinkedIn by the president of a small but mighty vending machine company located on the far Eastside of Indianapolis. I looked into the company and discovered it was the remaining company from an Indianapolis dynasty in the vending machine industry started by set of brothers decades before. Growing up near Indy, I was quite familiar with this history and I was excited to be contacted by them. I, of course, responded with my resume and a phone interview followed shortly.
+
+The phone interview doing going as well as I had hoped due to a poor signal at the time. However, the Director of Technology decided to have me come into their office for a face-to-face interview in the second round despite that issue. This second interview went perfectly and I was offered a job on the spot.
 
 CTO
 
