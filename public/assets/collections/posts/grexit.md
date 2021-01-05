@@ -26,13 +26,21 @@ Another benefit for having such appreciative bosses with a lucrative contract is
 
 And if that wasn't enough, the company also paid the full premium for our health insurance! Alas, all good things come to an end. In 2015 that big contract came to an end as the client was consolidating their IT department. I continued working on other contract work until January 2016 when the company had to lay me off. It wasn't always the best work. However, it was by far the best company I have ever worked for. And although they eventually had to lay off their employees, I'm very happy the two owners are still in business today.
 
-# International Vending Management
+# Dawn of a new Era
 
-A few months after my time ended with TGFI, I was contacted directly over LinkedIn by the president of a small but mighty vending machine company located on the far Eastside of Indianapolis. I looked into the company and discovered it was the remaining company from an Indianapolis dynasty in the vending machine industry started by set of brothers decades before. Growing up near Indy, I was quite familiar with this history and I was excited to be contacted by them. I, of course, responded with my resume and a phone interview followed shortly.
+A few months after my time ended with TGFI, I was contacted directly over LinkedIn by the president of a small but mighty vending machine company located on the far Eastside of Indianapolis. I looked into the company and discovered it was the remaining entity from an Indianapolis dynasty in the vending machine industry started by a set of brothers decades before. Growing up near Indy, I was quite familiar with this history and I was excited to be contacted by them. I, of course, responded with my resume and a phone interview followed shortly.
 
-The phone interview doing going as well as I had hoped due to a poor signal at the time. However, the Director of Technology decided to have me come into their office for a face-to-face interview in the second round despite that issue. This second interview went perfectly and I was offered a job on the spot.
+The phone interview doing going as well as I had hoped due to a poor signal at the time. However, the Director of Technology decided to have me come into their office for a face-to-face interview in the second round despite that issue. This second interview went perfectly and I was offered a job on the spot. This seemed like a match made in Heaven. The excitement of landing this job with a company I was quite fond of that worked with some of the neatest technology was almost too good to be true!
 
-CTO
+As it is with most jobs, I started out with a lot of hope and vision of how I could improved the life of the company and its clients. In fact, I even put together a proof of concept for how we could build our mobile app in house for a fraction of the cost we were already paying a third party vendor. I put it together in just three hours! My supervisor was impressed, but he did not decide to bring the project in house after all. Shortly after that, he resigned. Not only was it puzzling why he wouldn't allow us to make the mobile app ourselves, it was equally puzzling he would resign so quickly after hiring a few of us.
+
+Just before his resignation, one of the former employees came back as an Assistant Director of Technology. What we later found out was he was brought back to replace the Director. These chain of events quickly dissolved my excitement and I began to question if I had made the right decision to join the team. Me being me, I thought it was a good idea to do anything I could to help make things better. So I worked closely with the new Director to help implement his new vision. This went rather well and we are friends to this day. However, six months later, he too resigned.
+
+# Rise to the Occasion
+
+Against my better judgement, I threw my hat in the ring and offered my service to the president of the company as the new Director of Technology. He accepted on a trial basis to be evaluated the first three months of 2017. As you can imagine, I really shined in this new role and I was made officially the Director. This is when I began realizing why my predecessors left. However, once again, I thought it was a good idea to do anything I could to help make things better.
+
+Making an impact
 
 Resignation and Offer to stay
 
