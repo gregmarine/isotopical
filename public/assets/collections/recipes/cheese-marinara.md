@@ -18,7 +18,7 @@ published: false
 
 # Overview
 
-After the success of my Baked Chicken Parmesan recipe, I wanted to take things to the next level and design a signature sauce to pair with it. After intense experimentation (no, not really), here is the brain child that is my homemade cheese marinara. Use it with chicken parm, or any other dish that calls for a red sauce.
+After the success of my [Baked Chicken Parmesan](/recipes/baked-chicken-parmesan) recipe, I wanted to take things to the next level and design a signature sauce to pair with it. After intense experimentation (no, not really), here is the brain child that is my homemade cheese marinara. Use it with chicken parm, or any other dish that calls for a red sauce.
 
 ![Pic to come](/assets/img/collections/recipes/cheese-marinara/cheese-marinara.jpg "Pic to come")
 
