@@ -15,12 +15,12 @@ tags:
 - soup
 - feel good
 - instant pot
-published: false
+published: true
 ---
 
 # Overview
 
-Needs an overview
+This started as a Christmas meal. It turned into a requested staple of my kitchen! And although I grew up having nice chicken and noodles from my mother's kitchen growing up, this isn't my mother's recipe! This homemade dish is full of flavor, texture, and all the love I can pressure into this Instant Pot meal! This is not only the best I could come up with, I honestly feel this is the best chicken & noodle recipe I have ever had.
 
 ![Chicken & Noodles](/assets/img/collections/recipes/instant-pot-chicken-and-noodles/instant-pot-chicken-and-noodles.jpg "The best chicken & noodles!")
 
@@ -30,13 +30,13 @@ Needs an overview
 
 # Ingredients
 
-- 2 large chicken breasts
-- 22 oz can cream of chicken soup
-- 4 cups chicken broth
+- 2 large chicken breasts (or 3 medium)
+- 22.6 oz can cream of chicken soup
+- 4 cups reduced sodium chicken broth
 - 8 tbsp (1 stick) of butter
 - 4 garlic cloves, minced
-- 1/4 tsp seasoning
-- 3/4 tsp salt
+- 1/4 tsp seasoning (poultry or similar)
+- 3/4 tsp salt (or to taste, or less if you using standard broth)
 - 1/4 tsp pepper
 - 1/4 garlic powder
 - 24 oz frozen egg noodles (Reames brand)
@@ -45,10 +45,10 @@ Needs an overview
 
 # Instructions
 
-1. Set Instant Pot to Saute mode
+1. Set Instant Pot to Saute mode (I set at least 20 minutes just to be sure)
 2. Add butter and allow to fully melt
-3. Add broth, cream of chicken soup, 1/2 tsp of salt, pepper, garlic, garlic powder, and seasoning. Stir until combined
-4. Add the chicken and cancel saute mode
+3. Add cream of chicken soup, broth, 1/2 tsp of salt, pepper, garlic, garlic powder, and seasoning. Stir until combined (I usually combine until it simmers)
+4. Add the chicken breasts and cancel saute mode
 5. Secure lid on the pot, set the steam release knob to sealing position
 6. Press Pressure Cook button, set time for 12 mins on High Pressure (If chicken is frozen, set to 18 minutes)
 7. Once the cook cycle completes, do a 10 minute natural release followed by a manual release
