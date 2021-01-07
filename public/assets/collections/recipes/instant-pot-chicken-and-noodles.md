@@ -7,7 +7,7 @@ tabs:
 - Instructions
 - Notes
 title: Instant Pot Chicken and Noodles
-date: 2020-01-07
+date: 2021-01-07
 author: Greg Marine
 tags: 
 - chicken
