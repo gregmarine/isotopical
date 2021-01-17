@@ -40,7 +40,9 @@ Just before his resignation, one of the former employees came back as an Assista
 
 Against my better judgement, I threw my hat in the ring and offered my service to the president of the company as the new Director of Technology. He accepted on a trial basis to be evaluated the first three months of 2017. As you can imagine, I really shined in this new role and I was made officially the Director. This is when I began realizing why my predecessors left. However, once again, I thought it was a good idea to do anything I could to help make things better.
 
-Making an impact
+The first thing I did to improve things was mend some old wounds between the IT department and the customer service department. The manager of that department at the time had issues with my predecessors. The manager I replaced had several quite vocal disagreements with her. The office we worked in at the time wasn't very large. So it was pretty easy to hear their arguments. So, I wanted to be sure that the past did not repeat itself.
+
+Another opportunity was to work more closely with the president of the company. Just like with the customer service manager, my predecessors had issues with the president. In this case, it was only the president who did the shouting. When I assumed the responsibilities of the Directory position, 
 
 Resignation and Offer to stay
 
