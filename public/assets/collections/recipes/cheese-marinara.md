@@ -30,7 +30,7 @@ After the success of my [Baked Chicken Parmesan](/recipes/baked-chicken-parmesan
 
 - 4 14.5oz cans dice tomatoes
 - 1/2 onion
-- 6 cloves minced
+- 6 cloves minced garlic (or 3 tsp of garlic powder)
 - 2 tsp dried parsley
 - 2 tsp dried basil
 - 2 tsp dried oregano
