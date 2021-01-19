@@ -42,13 +42,19 @@ Against my better judgement, I threw my hat in the ring and offered my service t
 
 The first thing I did to improve things was mend some old wounds between the IT department and the customer service department. The manager of that department at the time had issues with my predecessors. The manager I replaced had several quite vocal disagreements with her. The office we worked in at the time wasn't very large. So it was pretty easy to hear their arguments. So, I wanted to be sure that the past did not repeat itself.
 
-Another opportunity was to work more closely with the president of the company. Just like with the customer service manager, my predecessors had issues with the president. In this case, it was only the president who did the shouting. When I assumed the responsibilities of the Directory position, 
+Another opportunity was to work more closely with the president of the company. Just like with the customer service manager, my predecessors had issues with the president. In this case, it was only the president who did the shouting. When I assumed the responsibilities of the Directory position, the shouting came to an end. My personality was much more timid than my predecessors. They were both great guys. But seemed the president felt he could yell and shout without causing them any distress. Myself, on the other hand, would never join in on the shouting matches. So, the president never once raised his voice to me.
+
+My optimism and good fortunes as the new Director of Technology would not last long. After my three month probationary period, I was officially kept on as the Director and given full responsibilities of the office; so I thought. I quickly found that the president of the company would constantly undermining my decisions. And he would frequently fuel the frictions between the IT and customer service departments. He was always questioning my decisions and recommendations and would never give credit where it was due anytime the IT department saved the day. He would belittle my staff every time I would meet with him privately and would complain about how much he was paying them. He always had the expectation that everyone on the IT staff should work 60-80 hours a week simply because they were the highest paid staff.
+
+There was never a sense of teamwork among the different teams at the company. And that all came from the top position. I quickly found why my predecessors left the company. And it didn't take me long to want to leave myself. When I was just a regular member of the staff, I did not see much of what was going on behind the scenes. As a manager who was "second in command", I could see everything. And I did not like what I saw.
+
+# Grexit 1.0
 
 Resignation and Offer to stay
 
 Toxic Ending
 
-# Grexit
+# Grexit 2.0
 
 Leaving
 
