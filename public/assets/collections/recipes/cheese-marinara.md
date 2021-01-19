@@ -48,7 +48,7 @@ After the success of my [Baked Chicken Parmesan](/recipes/baked-chicken-parmesan
 5. Add remaining tomatoes, 1 can at a time, and crush with a potato masher
 6. Keep pot at a gentle boil for 5 minutes; stirring constantly
 7. Stir in onion, garlic, and grated parmesan; reduce heat and simmer for 5 minutes, stirring occasionally
-8. Stir in parsley, basil, oregano, salt, and pepper
+8. Stir in parsley, basil, oregano, salt, and pepper (to taste)
 9. Continue simmer for 15 minutes, stirring occasionally
 
 ---
