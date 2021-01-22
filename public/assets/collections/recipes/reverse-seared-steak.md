@@ -43,7 +43,7 @@ I've been cooking steaks for over 2 decades now. I have tried several techniques
 1. Preheat oven to 225F
 2. Salt and pepper both sides of steaks to taste
 3. Place on a rack in an aluminum foil lined pan (shiny side up)
-4. Roast for 65 minutes [60C/140F] (55 for medium [54C/129F]) [These internal temps are lower than what the final will be due to the sear process below]
+4. Roast for 65 minutes \[60C/140F\] (55 for medium \[54C/129F\]) \[These internal temps are lower than what the final will be due to the sear process below\]
 5. Heat olive oil in skillet with medium-high heat
 6. Sear each side for 1 minute
 7. Reduce heat to medium-low heat
@@ -60,7 +60,7 @@ For steps 8 - 10, you can also saute mushrooms and/or onions with the garlic and
 
 ## Steak Temp Chart
 |  | Roast Temp | Post Sear Temp |
-| :--- | :---: | ---: |
+| --- | --- | --- |
 | Rare | 43C/110F | 49C/120F |
 | Medium Rare | 49C/120F | 54C/129F |
 | Medium | 54C/129F | 60C/140F |
