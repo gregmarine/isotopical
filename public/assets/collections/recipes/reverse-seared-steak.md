@@ -60,7 +60,7 @@ For steps 8 - 10, you can also saute mushrooms and/or onions with the garlic and
 
 ## Steak Temp Chart
 |  | Roast Temp | Post Sear Temp |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | Rare | 43C/110F | 49C/120F |
 | Medium Rare | 49C/120F | 54C/129F |
 | Medium | 54C/129F | 60C/140F |
