@@ -54,12 +54,25 @@ After a year and three months in this role, and dealing with toxic behaviors of 
 
 The final straw came when I and my team had missed a deadline that the president and customer service manager imposed on me and my team, communicated to the client, and then went out of their way to ensure we would miss it. This was not uncommon actually. However, in this case, the president expressed his disappointment in me personally on the missed deadline. Until that moment, I had managed to meet or exceed expectations in every project despite unreasonable demands. 
 
-Toxic Ending
+It was at the moment I decided it was time for me to move on. It is traditional for an employee to turn in a 2 weeks notice. Furthermore, it is traditional to hand the resignation notice to one's direct supervisor. I decided I did not want to do either and instead sent my notice of immediate resignation to the CEO of the company. Having dealt with this for 15 months left me so broken I just had to walk away.
+
+What happened next was quite unexpected. Both the CEO and the president were not only taken by surprise, they were prepared to do whatever it took to keep me there. The following week, the CEO offered to meet with me and asked if I would be fine with the president also being present. I agreed to a meeting in a public place as I was not sure what to expect. The CEO wanted to offer that I stay with the company as I transitioned a new CTO to replace me, I would then be able to work from home, and my salary would remain the same. In addition, I was going to be paid for the time between my resignation and when I would return to work without it being charged to my PTO bank.
+
+I felt this was a generous offer and ultimately agreed to it. I looked at this as another opportunity to make a difference and could see that my stress level would diminish since most of the primary responsibilities were going to be transfer to a new CTO. I was going to get to go back to being a software engineer, in fact. I was so excited about the possibilities I could not see that it was actually the president's way of saving face with the CEO and to further manipulate the situation he had fostered. And as it turned out, he actually planned to bring in one of his friends as the new CTO.
 
 # Grexit 2.0
 
-Leaving
+One of the things I agreed to was to remain in the office while the new CTO was transitioned into his role and I was transitioned into my new role. The first sign things weren't on the level came when the president changed the narrative to indicate he was going to leave it up to the new CTO as to whether or not I would be able to work from home. He did not want to tie the hands of the new guy, so to speak. What my replacement and I settled on was 1 day a week in the office. This worked for a time.
 
-Lessons Learned
+By the end of 2018, another change to the original agreement came to my salary. The agreement was it would not change; which I accepted and understood that I would likely never get a raise if I remained at the company. The way the president presented it to me was that the CEO was making a million dollar investment in me over a 10 year period. At the time, I was making just over $100k per year. However, starting in 2019, the president was going to make a $12k cut per year in my salary.
 
-2020
+After the pay decreased was implemented, another change was on the horizon. The CTO decided he wanted me to be in the office more often. It started as me being in the office 2 days instead of 1. Not long after that, it became 3 days. At first, this was not a major problem as they were not full work days. I was still allowed the flexibility to come in after taking our youngest to school and going back home after I picked him up. However, by October 2019, the president changed the policy to be that I had to be in the office 3 days a week for 8 hours each of those days. This was regardless of my responsibilities with taking our youngest to school and picking him up.
+
+Getting a $12k cut in salary and now needing to spend 3 hours a day on the road for 3 days a week in order to accommodate school schedules and the latest demands of the president really took a toll on me. Furthermore, the youngest has autism and the strange travel schedule I was forced to make was stressing him out. I was not even able to transition into the new schedule. It took place without warning. You simply cannot do that to a child with autism. Once again, I found myself resigning directly to the CEO with the added statement that I could no longer put my family through this.
+
+This time, I did not look back. Nothing was offered to me in terms of trying to get me to stay. And I made it clear I did not wish to work with them in the future. I still here stories of how things are at the company. And things have not improved whatsoever. There are a few who remain there because they have no where else to work. And the events of 2020 prevented them from finding new employment. The company has actually been hit pretty hard with the effects of the pandemic. Although my heart goes out to my friends there, I do not feel bad that the company might be seeing its last days.
+
+# Lessons Learned
+
+As you can imagine, there was a drastic contrast between the company I was forced to leave in 2016 and the one I ran from in 2019. The former was run by some of the most generous leaders I have had the pleasure of working with. The latter, lead by a narcissistic master manipulator. One was a joy to work for, and the other was a nearly 4 year nightmare. As I reflect on the events of the past decade at these two polar opposites, I have learned some quite valuable lessons.
+
