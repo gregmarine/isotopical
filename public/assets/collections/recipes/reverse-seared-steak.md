@@ -59,10 +59,22 @@ I've been cooking steaks for over 2 decades now. I have tried several techniques
 For steps 8 - 10, you can also saute mushrooms and/or onions with the garlic and butter to top the steaks with something a little extra.
 
 ## Steak Temp Chart
-|  | Roast Temp | Post Sear Temp |
-| ---- | ---- | ---- |
-| Rare | 43C/110F | 49C/120F |
-| Medium Rare | 49C/120F | 54C/129F |
-| Medium | 54C/129F | 60C/140F |
-| Medium Well | 60C/140F | 66C/151F |
-| Well | 66C/151F | 68C/154F |
+Rare
+- Roast temp: 43C/110F 
+- Post sear temp: 49C/120F
+
+Medium Rare
+- Roast temp: 49C/120F
+- Post sear temp: 54C/129F
+
+Medium
+- Roast temp: 54C/129F
+- Post sear temp: 60C/140F
+
+Medium Well
+- Roast temp: 0C/140F
+- Post sear temp: 66C/151F
+
+Well
+- Roast temp: 66C/151F
+- Post sear temp: 68C/154F
