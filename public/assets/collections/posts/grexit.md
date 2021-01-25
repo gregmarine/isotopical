@@ -76,3 +76,10 @@ This time, I did not look back. Nothing was offered to me in terms of trying to 
 
 As you can imagine, there was a drastic contrast between the company I was forced to leave in 2016 and the one I ran from in 2019. The former was run by some of the most generous leaders I have had the pleasure of working with. The latter, lead by a narcissistic master manipulator. One was a joy to work for, and the other was a nearly 4 year nightmare. As I reflect on the events of the past decade at these two polar opposites, I have learned some quite valuable lessons.
 
+One lesson, and likely the most important one, is companies are not typically as loyal to their employees as you are to them. There are, of course, exceptions to this as I experienced that at TGFI. However, this has been a rare exception in my career. Every other company I have worked directly for did not have the same level of loyalty I had. Especially as was the case in the other company mentioned above with all of the broken promises.
+
+Another lesson would be that I should follow my intuition. When I first saw signs of problems, rather than thinking I could help make the company better, it is more likely that I should just make plans to leave. Some environments are just too toxic for one person or a few people to make enough difference. This is especially true for smaller companies that do not answer to a board.
+
+The most value lesson I learned in that experience was knowing myself and my own limitations. I honestly did not know just how much I could handle. And I can definitely handle quite a bit more than I thought I could. But at what cost? What that toxic environment was doing to me affected everyone around me. This was especially the case at home. So moving forward, I will be evaluating the environment on a constant basis for my own sake and that of my family.
+
+If you feel you are working in a toxic environment, I encourage you to ask yourself the tough question about whether it is time to move on or not. Feel free to [connect with me on Twitter](https://twitter.com/gregmarine) and I would be happy to discuss your situation.
