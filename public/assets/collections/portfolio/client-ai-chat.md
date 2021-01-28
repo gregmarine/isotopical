@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Highlight in Ettain Newsletter
 date: 2021-01-28
 author: Greg Marine
 tags: 
