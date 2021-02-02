@@ -9,7 +9,7 @@ tags:
 - toxic
 - workplace
 close_button: /posts
-published: true
+published: false
 ---
 
 I have worked professionally for over 25 years. In those years, I have worked for many companies and in many industries; serving most of them in the technology spectrum in one way or another. Most of the time, I have really enjoyed what I did for a living. But sometimes I did not enjoy it so much. I have worked for great companies with fantastic supervisors and with not so great companies for less than ideal supervisors. After nearly 4 years with a company where I began employment feeling it was one of the greatest companies, I found myself drowning in a toxic sludge that nearly destroyed me. But what happened that made it feel this way and what did I do about it?
