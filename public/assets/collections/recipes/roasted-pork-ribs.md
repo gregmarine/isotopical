@@ -11,7 +11,9 @@ date: 2021-02-09
 author: Greg Marine
 tags: 
 - roasting
-- chicken
+- pork
+- ribs
+- bbq
 - main course
 published: false
 ---
@@ -20,7 +22,7 @@ published: false
 
 
 
-![Roasted Pork Ribs](/assets/img/collections/recipes/roasted-chicken-breast/roasted-chicken-breast.jpg "Roasted Pork Ribs")
+![Roasted Pork Ribs](/assets/img/collections/recipes/roasted-pork-ribs/roasted-pork-ribs.jpg "Roasted Pork Ribs")
 
 <!--more-->
 
