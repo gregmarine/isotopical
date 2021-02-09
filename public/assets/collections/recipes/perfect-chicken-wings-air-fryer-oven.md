@@ -30,11 +30,10 @@ This is an air fryer oven version of my [chicken wings recipe](/recipes/erfect-c
 # Ingredients
 
 - 10-12 chicken wings
-- Salt
-- Pepper
-- Paprika
-- Garlic Powder
-- Baking Powder (Note: do not use baking soda!)
+- Salt and pepper to taste
+- 1 tbsp paprika
+- 1 tbsp garlic powder
+- 1 tbsp baking powder (Note: do not use baking soda!)
 - Favorite wing sauce (if not using rub)
 - Olive oil (if using dry rub)
 
