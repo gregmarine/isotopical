@@ -15,12 +15,12 @@ tags:
 - ribs
 - bbq
 - main course
-published: false
+published: true
 ---
 
 # Overview
 
-
+Low and slow is the name of the game when it comes to pork ribs. And the time it takes to prepare and roast this ribs will be well worth it! After a 2 to 24 hour brining process, your ribs will be ready for an up to 3 hour tour in the oven. Sit back, relax, and wwwaaaiiittt for it... and this will become your go-to rib recipe!
 
 ![Roasted Pork Ribs](/assets/img/collections/recipes/roasted-pork-ribs/roasted-pork-ribs.jpg "Roasted Pork Ribs")
 
@@ -64,4 +64,4 @@ published: false
 
 # Notes
 
-Spareribs do not take as long to roast. You might adjust the cook times to 1 1/2 for the initial roast and 30 minutes after you apply the sauce or a full 2 hours if you aren't using sauce.
+Spareribs do not take as long to roast. You might adjust the cook times to 1 1/2 for the initial roast and 15-25 minutes after you apply the sauce or a full 2 hours if you aren't using sauce.
