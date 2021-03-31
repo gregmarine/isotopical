@@ -15,12 +15,12 @@ tags:
 - vegetables
 - veggies
 - side dish
-published: false
+published: true
 ---
 
 # Overview
 
-I have always found it difficult to cook asparagus. Remove it from heat too early and they are extremely tough. Leave it on heat too long and they become super gross. But when cooked properly, asparagus is one of the most wonderful vegetables I have every tasted. Up until now, I really only enjoyed the way it is prepared at a fancy restaurant. But I have finally found the best way for me to enjoy asparagus at home!
+I have always found it difficult to cook asparagus. Remove it from the pan too early and they are extremely tough. Leave it in the pan too long and they become super gross. But when cooked properly, asparagus is one of the most wonderful vegetables I have every tasted. Up until now, I really only enjoyed the way it is prepared at fancy restaurants. But I have finally found the best way for me to enjoy asparagus at home!
 
 ![Roasted Asparagus](/assets/img/collections/recipes/roasted-asparagus/roasted-asparagus.jpg "Roasted Asparagus")
 
@@ -42,18 +42,17 @@ I have always found it difficult to cook asparagus. Remove it from heat too earl
 # Instructions
 
 1. Preheat oven to 400F
-2. Mix dry ingredients in a large bowl and set aside
-3. Coat both sides of each piece of chicken with olive oil
-4. Dip each piece of chicken in spice mix, coating both sides evenly
-5. Line a baking pan with aluminum foil, shiny side up
-6. Place chicken in baking pan and place in oven
-7. Bake 20 minutes
-8. Serve with your favorite sides and enjoy
+2. Mix olive oil, salt, pepper, and garlic powder in gallon resealable bag
+3. Put asparagus in the seasoning bag and toss to fully coat
+4. Line a baking pan with aluminum foil with the shinny side up
+5. Place all of the spears in a single layer in the pan
+6. Top asparagus spears with shredded parmesan cheese
+7. Bake for 10-15 mins; depending on how thick the spears are
 
 ---
 
 # Notes
 
-Be sure to cut the chicken breasts in half evenly. If one half is thicker than the other, be sure to pound the thicker side to be the same thickness as the lessor. This is the ensure the chicken roasts at the same rate.
+This recipe pairs nicely with my [Roasted Pork Ribs](/recipes/roasted-pork-ribs), [Roasted Chicken Breast](/recipes/roasted-chicken-breast), or [Reverse Seared Steak](/recipes/reverse-seared-steak) recipes.
 
-Even if you are looking for low carb chicken, this recipe works. The amount of brown sugar spread over the 4 halves is approximately 2.25g net carbs.
+There are certainly other ways to cook asparagus. However, this has been then only sure way for this home "chef" to get it just right!
