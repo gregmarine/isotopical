@@ -15,7 +15,7 @@ tags:
 - instant pot
 - japan
 - japanese
-published: false
+published: true
 ---
 
 # Overview
@@ -30,7 +30,7 @@ I haven't always loved sushi like I do today. In fact, the first time I had it I
 
 # Ingredients
 
-- 1 cup sushi rice
+- 1 cup sushi rice (I buy Nishiki brand rice from my local grocery store)
 - 1 cup water
 - 1/4 cup Japanese seasoned rice vinegar
 - 1 tsp salt
@@ -61,3 +61,4 @@ I haven't always loved sushi like I do today. In fact, the first time I had it I
 
 # Notes
 
+This will yield plenty of rice for several rolls for a nice family dinner. Imagine it, all you can eat sushi...at home!
