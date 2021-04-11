@@ -44,8 +44,7 @@ As I mentioned before, the Christian Holy Bible has been my guide to almost ever
 
 So, what is up with this come to Jesus moment for me?!? Well, I would have to say it is all about how Jesus lived. He questioned the teachings of the church of the day [need cite], He loved everyone [need cite], and He was LOVE [need cite]! Although I am not Jesus, or close to even perfect for that matter, I can completely related to questioning what I have been taught by the church, how to love everyone, and how to be LOVE for someone else.
 
-2 failed marriages, and 5 church congregations later, I'm still looking for my place in Christianity.
-
-I feel balance is the important piece of the puzzle missing for me.
+Two failed marriages, and five church congregations later, I'm still looking for my place in Christianity. I have certainly not lost my faith in a higher power. More than anything, I would say I have lost faith in other people. Especially those who worship the religion over the deity the religion is based on. There is very little balance between service and faith when it came to the congregations I have been a part of. And I feel balance is the important piece of the puzzle missing for me.
 
 # Yin and Yang
+
