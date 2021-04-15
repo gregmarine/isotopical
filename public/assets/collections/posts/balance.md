@@ -48,3 +48,7 @@ Two failed marriages, and five church congregations later, I'm still looking for
 
 # Yin and Yang
 
+You have probably heard of Yin and Yang and even seen the symbol that represents it. Historically, Yin has been the white side and Yang the black. In modern usage, it is now the reverse. However, the white and black represent the light and dark respectively. So, for me, Yin is the white side and Yang the black. I find this symbolism the appropriate way to express the importance of balance. Just as the sun lights the day, and is hidden to form the night, everything I do needs to have a counter action.
+
+I work to provide for myself and family. I eat to have energy to work. I sleep to allow my body to recover from work. Sometimes this all becomes unbalanced. Especially the eating and sleeping cycles.If I don't find balance again, it can all come apart. Fortunately it has never become so unbalanced that I wasn't able to find balance once again. In terms of physical health, I was fortunate enough to have had a [health scare](/posts/before-and-after) knock me back on track. And in terms of mental health, I have worked to build a sleep schedule that allows me to fall asleep and wake up naturally. That doesn't happen every day. But I'm glad to say it does happen more often than not now.
+
