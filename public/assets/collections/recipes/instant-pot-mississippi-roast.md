@@ -45,7 +45,7 @@ published: false
 5. Brown roast by sauteing each side for 1-2 minutes
 6. Set roast aside
 7. Pour beef broth into pot and deglaze
-8. Stir ranch dressing seasoning into beef broth
+8. Stir ranch dressing seasoning into beef broth 
 9. Return roast to the pot
 10. Place a layer of pepperoncinis atop the roast
 11. Place any remaining pepperoncinis in the beef broth aside the roast
