@@ -7,7 +7,7 @@ tabs:
 - Instructions
 - Notes
 title: Instant Pot Pork Chops
-date: 2021-04-21
+date: 2021-05-31
 author: Greg Marine
 tags: 
 - pork
