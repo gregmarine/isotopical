@@ -35,7 +35,6 @@ published: false
 - 3 tbsp brown sugar
 - 1 tbsp salt
 - 1 tbsp pepper
-- 1 tsp parsley
 - 1 tsp garlic powder
 - 1/2 tbsp chili powder
 - 1/2 tsp onion powder
