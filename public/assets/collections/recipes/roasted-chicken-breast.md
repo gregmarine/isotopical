@@ -18,7 +18,7 @@ published: true
 
 # Overview
 
-This is by far the best way I have every prepared chicken breasts. It is a mild sweet-heat that will make your mouth water. This is both tasty and healthy and sure to please even the pickiest of eaters.
+This is by far the best way I have ever prepared chicken breasts. It is a mild sweet-heat that will make your mouth water. This is both tasty and healthy and sure to please even the pickiest of eaters.
 
 ![Roasted Chicken Breast](/assets/img/collections/recipes/roasted-chicken-breast/roasted-chicken-breast.jpg "Best Roasted Chicken Breast")
 
@@ -56,6 +56,6 @@ This is by far the best way I have every prepared chicken breasts. It is a mild 
 
 # Notes
 
-Be sure to cut the chicken breasts in half evenly. If one half is thicker than the other, be sure to pound the thicker side to be the same thickness as the lessor. This is the ensure the chicken roasts at the same rate.
+Be sure to cut the chicken breasts in half evenly. If one half is thicker than the other, be sure to pound the thicker side to be the same thickness as the lessor. This is to ensure the chicken roasts at the same rate.
 
 Even if you are looking for low carb chicken, this recipe works. The amount of brown sugar spread over the 4 halves is approximately 2.25g net carbs.
